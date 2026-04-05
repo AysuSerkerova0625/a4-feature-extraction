@@ -4,7 +4,7 @@ In this task I've analyzed an image to find important features like edges, corne
 
 # How to Run
 ```
-git clone <repo>
+git clone https://github.com/AysuSerkerova0625/a4-feature-extraction
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
